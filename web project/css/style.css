@@ -1,0 +1,65 @@
+.header{
+    background-color: aqua;
+    height: 100px;
+    
+}
+.content{
+    background-color: hotpink;
+}
+.footer{
+    background-color: chocolate;
+    height: 100px;
+    
+
+
+}
+.parent{
+        background-color: white;
+        height:  200px;
+        width: 100%;
+            
+}
+
+.child1{
+    background-color: antiquewhite;
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-size: 200px;200px;
+    background-repeat: no-repeat;
+}
+
+.child2{
+    background-color: whitesmoke;
+    float: left;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    background: 
+        url("../images/background2.jpg")
+    center center;
+        
+}
+
+
+.child3{
+    background-color: cyan;
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+.child4{
+    background-color: aliceblue;
+    width: 25%;
+    height: 100%;
+}
+
+
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
